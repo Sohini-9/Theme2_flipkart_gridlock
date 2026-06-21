@@ -1,0 +1,1829 @@
+{
+  "Mysore Road": {
+    "10": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 43.02,
+      "eta_traffic_2023_tgcf_corrected_min": 38.63,
+      "baseline_delay_2023_min": 16.8,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 40.82,
+      "eta_traffic_2023_tgcf_corrected_min": 36.66,
+      "baseline_delay_2023_min": 14.83,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 49.82,
+      "eta_traffic_2023_tgcf_corrected_min": 44.74,
+      "baseline_delay_2023_min": 22.91,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 47.04,
+      "eta_traffic_2023_tgcf_corrected_min": 42.24,
+      "baseline_delay_2023_min": 20.41,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 30.57,
+      "eta_traffic_2023_tgcf_corrected_min": 27.45,
+      "baseline_delay_2023_min": 5.62,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 24.02,
+      "eta_traffic_2023_tgcf_corrected_min": 21.57,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 20.61,
+      "eta_traffic_2023_tgcf_corrected_min": 18.51,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 21.15,
+      "eta_traffic_2023_tgcf_corrected_min": 18.99,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 23.15,
+      "eta_traffic_2023_tgcf_corrected_min": 20.79,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 28.61,
+      "eta_traffic_2023_tgcf_corrected_min": 25.69,
+      "baseline_delay_2023_min": 3.86,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 41.75,
+      "eta_traffic_2023_tgcf_corrected_min": 37.49,
+      "baseline_delay_2023_min": 15.66,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 21.83,
+      "eta_traffic_today_min": 33.75,
+      "eta_traffic_2023_tgcf_corrected_min": 30.31,
+      "baseline_delay_2023_min": 8.48,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Bellary Road 1": {
+    "10": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 13.2,
+      "eta_traffic_2023_tgcf_corrected_min": 11.85,
+      "baseline_delay_2023_min": 1.33,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 19.21,
+      "eta_traffic_2023_tgcf_corrected_min": 17.25,
+      "baseline_delay_2023_min": 6.73,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 14.85,
+      "eta_traffic_2023_tgcf_corrected_min": 13.34,
+      "baseline_delay_2023_min": 2.82,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 14.88,
+      "eta_traffic_2023_tgcf_corrected_min": 13.36,
+      "baseline_delay_2023_min": 2.84,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 10.96,
+      "eta_traffic_2023_tgcf_corrected_min": 9.84,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 10.55,
+      "eta_traffic_2023_tgcf_corrected_min": 9.47,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 9.28,
+      "eta_traffic_2023_tgcf_corrected_min": 8.33,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 8.63,
+      "eta_traffic_2023_tgcf_corrected_min": 7.75,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 9.01,
+      "eta_traffic_2023_tgcf_corrected_min": 8.09,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 9.64,
+      "eta_traffic_2023_tgcf_corrected_min": 8.66,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 11.05,
+      "eta_traffic_2023_tgcf_corrected_min": 9.92,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 10.52,
+      "eta_traffic_today_min": 12.0,
+      "eta_traffic_2023_tgcf_corrected_min": 10.78,
+      "baseline_delay_2023_min": 0.26,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Tumkur Road": {
+    "10": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 44.86,
+      "eta_traffic_2023_tgcf_corrected_min": 40.28,
+      "baseline_delay_2023_min": 15.58,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 35.82,
+      "eta_traffic_2023_tgcf_corrected_min": 32.17,
+      "baseline_delay_2023_min": 7.47,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 48.22,
+      "eta_traffic_2023_tgcf_corrected_min": 43.3,
+      "baseline_delay_2023_min": 18.6,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 35.29,
+      "eta_traffic_2023_tgcf_corrected_min": 31.69,
+      "baseline_delay_2023_min": 6.99,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 33.19,
+      "eta_traffic_2023_tgcf_corrected_min": 29.8,
+      "baseline_delay_2023_min": 5.1,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 28.5,
+      "eta_traffic_2023_tgcf_corrected_min": 25.59,
+      "baseline_delay_2023_min": 0.89,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 20.97,
+      "eta_traffic_2023_tgcf_corrected_min": 18.83,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 24.86,
+      "eta_traffic_2023_tgcf_corrected_min": 22.32,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 22.9,
+      "eta_traffic_2023_tgcf_corrected_min": 20.56,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 26.79,
+      "eta_traffic_2023_tgcf_corrected_min": 24.06,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 31.91,
+      "eta_traffic_2023_tgcf_corrected_min": 28.66,
+      "baseline_delay_2023_min": 3.96,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 24.7,
+      "eta_traffic_today_min": 30.69,
+      "eta_traffic_2023_tgcf_corrected_min": 27.56,
+      "baseline_delay_2023_min": 2.86,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Bellary Road 2": {
+    "10": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 21.32,
+      "eta_traffic_2023_tgcf_corrected_min": 19.15,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 21.67,
+      "eta_traffic_2023_tgcf_corrected_min": 19.46,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 22.35,
+      "eta_traffic_2023_tgcf_corrected_min": 20.07,
+      "baseline_delay_2023_min": 0.19,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 22.45,
+      "eta_traffic_2023_tgcf_corrected_min": 20.16,
+      "baseline_delay_2023_min": 0.28,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 18.73,
+      "eta_traffic_2023_tgcf_corrected_min": 16.82,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 20.2,
+      "eta_traffic_2023_tgcf_corrected_min": 18.14,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 16.88,
+      "eta_traffic_2023_tgcf_corrected_min": 15.16,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 16.04,
+      "eta_traffic_2023_tgcf_corrected_min": 14.4,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 16.59,
+      "eta_traffic_2023_tgcf_corrected_min": 14.9,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 16.86,
+      "eta_traffic_2023_tgcf_corrected_min": 15.14,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 18.47,
+      "eta_traffic_2023_tgcf_corrected_min": 16.59,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 19.88,
+      "eta_traffic_today_min": 18.94,
+      "eta_traffic_2023_tgcf_corrected_min": 17.01,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Hosur Road": {
+    "10": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 12.35,
+      "eta_traffic_2023_tgcf_corrected_min": 11.09,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 12.28,
+      "eta_traffic_2023_tgcf_corrected_min": 11.03,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 14.45,
+      "eta_traffic_2023_tgcf_corrected_min": 12.98,
+      "baseline_delay_2023_min": 0.85,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 13.04,
+      "eta_traffic_2023_tgcf_corrected_min": 11.71,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 15.83,
+      "eta_traffic_2023_tgcf_corrected_min": 14.22,
+      "baseline_delay_2023_min": 2.09,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 14.1,
+      "eta_traffic_2023_tgcf_corrected_min": 12.66,
+      "baseline_delay_2023_min": 0.53,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 10.79,
+      "eta_traffic_2023_tgcf_corrected_min": 9.69,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 10.54,
+      "eta_traffic_2023_tgcf_corrected_min": 9.46,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 13.64,
+      "eta_traffic_2023_tgcf_corrected_min": 12.25,
+      "baseline_delay_2023_min": 0.12,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 10.84,
+      "eta_traffic_2023_tgcf_corrected_min": 9.73,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 12.31,
+      "eta_traffic_2023_tgcf_corrected_min": 11.05,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 12.13,
+      "eta_traffic_today_min": 12.25,
+      "eta_traffic_2023_tgcf_corrected_min": 11.0,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 14
+    }
+  },
+  "ORR North 1": {
+    "10": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 5.02,
+      "eta_traffic_2023_tgcf_corrected_min": 4.51,
+      "baseline_delay_2023_min": 1.21,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 6.44,
+      "eta_traffic_2023_tgcf_corrected_min": 5.78,
+      "baseline_delay_2023_min": 2.48,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 5.84,
+      "eta_traffic_2023_tgcf_corrected_min": 5.24,
+      "baseline_delay_2023_min": 1.94,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 6.29,
+      "eta_traffic_2023_tgcf_corrected_min": 5.65,
+      "baseline_delay_2023_min": 2.35,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 4.4,
+      "eta_traffic_2023_tgcf_corrected_min": 3.95,
+      "baseline_delay_2023_min": 0.65,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 6.37,
+      "eta_traffic_2023_tgcf_corrected_min": 5.72,
+      "baseline_delay_2023_min": 2.42,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 4.36,
+      "eta_traffic_2023_tgcf_corrected_min": 3.92,
+      "baseline_delay_2023_min": 0.62,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 3.54,
+      "eta_traffic_2023_tgcf_corrected_min": 3.18,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 4.1,
+      "eta_traffic_2023_tgcf_corrected_min": 3.68,
+      "baseline_delay_2023_min": 0.38,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 4.52,
+      "eta_traffic_2023_tgcf_corrected_min": 4.06,
+      "baseline_delay_2023_min": 0.76,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 5.39,
+      "eta_traffic_2023_tgcf_corrected_min": 4.84,
+      "baseline_delay_2023_min": 1.54,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 3.3,
+      "eta_traffic_today_min": 5.21,
+      "eta_traffic_2023_tgcf_corrected_min": 4.68,
+      "baseline_delay_2023_min": 1.38,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Magadi Road": {
+    "10": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 27.65,
+      "eta_traffic_2023_tgcf_corrected_min": 24.83,
+      "baseline_delay_2023_min": 5.71,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 30.05,
+      "eta_traffic_2023_tgcf_corrected_min": 26.98,
+      "baseline_delay_2023_min": 7.86,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 36.52,
+      "eta_traffic_2023_tgcf_corrected_min": 32.79,
+      "baseline_delay_2023_min": 13.67,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 38.0,
+      "eta_traffic_2023_tgcf_corrected_min": 34.12,
+      "baseline_delay_2023_min": 15.0,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 25.95,
+      "eta_traffic_2023_tgcf_corrected_min": 23.3,
+      "baseline_delay_2023_min": 4.18,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 20.46,
+      "eta_traffic_2023_tgcf_corrected_min": 18.37,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 19.48,
+      "eta_traffic_2023_tgcf_corrected_min": 17.49,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 18.39,
+      "eta_traffic_2023_tgcf_corrected_min": 16.51,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 20.3,
+      "eta_traffic_2023_tgcf_corrected_min": 18.23,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 21.64,
+      "eta_traffic_2023_tgcf_corrected_min": 19.43,
+      "baseline_delay_2023_min": 0.31,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 30.01,
+      "eta_traffic_2023_tgcf_corrected_min": 26.95,
+      "baseline_delay_2023_min": 7.83,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 19.12,
+      "eta_traffic_today_min": 28.45,
+      "eta_traffic_2023_tgcf_corrected_min": 25.55,
+      "baseline_delay_2023_min": 6.43,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Old Madras Road": {
+    "10": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 23.7,
+      "eta_traffic_2023_tgcf_corrected_min": 21.28,
+      "baseline_delay_2023_min": 10.48,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 25.13,
+      "eta_traffic_2023_tgcf_corrected_min": 22.57,
+      "baseline_delay_2023_min": 11.77,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 27.23,
+      "eta_traffic_2023_tgcf_corrected_min": 24.45,
+      "baseline_delay_2023_min": 13.65,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 25.57,
+      "eta_traffic_2023_tgcf_corrected_min": 22.96,
+      "baseline_delay_2023_min": 12.16,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 15.07,
+      "eta_traffic_2023_tgcf_corrected_min": 13.53,
+      "baseline_delay_2023_min": 2.73,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 15.3,
+      "eta_traffic_2023_tgcf_corrected_min": 13.74,
+      "baseline_delay_2023_min": 2.94,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 10.66,
+      "eta_traffic_2023_tgcf_corrected_min": 9.57,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 9.13,
+      "eta_traffic_2023_tgcf_corrected_min": 8.2,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 11.01,
+      "eta_traffic_2023_tgcf_corrected_min": 9.89,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 12.21,
+      "eta_traffic_2023_tgcf_corrected_min": 10.96,
+      "baseline_delay_2023_min": 0.16,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 19.74,
+      "eta_traffic_2023_tgcf_corrected_min": 17.73,
+      "baseline_delay_2023_min": 6.93,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 10.8,
+      "eta_traffic_today_min": 20.0,
+      "eta_traffic_2023_tgcf_corrected_min": 17.96,
+      "baseline_delay_2023_min": 7.16,
+      "captured_at_real_hour": 14
+    }
+  },
+  "ORR East 1": {
+    "10": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 15.95,
+      "eta_traffic_2023_tgcf_corrected_min": 14.32,
+      "baseline_delay_2023_min": 4.86,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 18.51,
+      "eta_traffic_2023_tgcf_corrected_min": 16.62,
+      "baseline_delay_2023_min": 7.16,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 19.45,
+      "eta_traffic_2023_tgcf_corrected_min": 17.47,
+      "baseline_delay_2023_min": 8.01,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 17.64,
+      "eta_traffic_2023_tgcf_corrected_min": 15.84,
+      "baseline_delay_2023_min": 6.38,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 14.84,
+      "eta_traffic_2023_tgcf_corrected_min": 13.33,
+      "baseline_delay_2023_min": 3.87,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 11.19,
+      "eta_traffic_2023_tgcf_corrected_min": 10.05,
+      "baseline_delay_2023_min": 0.59,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 10.29,
+      "eta_traffic_2023_tgcf_corrected_min": 9.24,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 10.28,
+      "eta_traffic_2023_tgcf_corrected_min": 9.23,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 10.94,
+      "eta_traffic_2023_tgcf_corrected_min": 9.82,
+      "baseline_delay_2023_min": 0.36,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 10.21,
+      "eta_traffic_2023_tgcf_corrected_min": 9.17,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 14.38,
+      "eta_traffic_2023_tgcf_corrected_min": 12.91,
+      "baseline_delay_2023_min": 3.45,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 9.46,
+      "eta_traffic_today_min": 15.22,
+      "eta_traffic_2023_tgcf_corrected_min": 13.67,
+      "baseline_delay_2023_min": 4.21,
+      "captured_at_real_hour": 14
+    }
+  },
+  "ORR West 1": {
+    "10": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 11.5,
+      "eta_traffic_2023_tgcf_corrected_min": 10.33,
+      "baseline_delay_2023_min": 3.76,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 10.69,
+      "eta_traffic_2023_tgcf_corrected_min": 9.6,
+      "baseline_delay_2023_min": 3.03,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 12.8,
+      "eta_traffic_2023_tgcf_corrected_min": 11.49,
+      "baseline_delay_2023_min": 4.92,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 15.17,
+      "eta_traffic_2023_tgcf_corrected_min": 13.62,
+      "baseline_delay_2023_min": 7.05,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 8.08,
+      "eta_traffic_2023_tgcf_corrected_min": 7.26,
+      "baseline_delay_2023_min": 0.69,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 6.54,
+      "eta_traffic_2023_tgcf_corrected_min": 5.87,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 6.79,
+      "eta_traffic_2023_tgcf_corrected_min": 6.1,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 6.15,
+      "eta_traffic_2023_tgcf_corrected_min": 5.52,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 6.13,
+      "eta_traffic_2023_tgcf_corrected_min": 5.5,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 7.44,
+      "eta_traffic_2023_tgcf_corrected_min": 6.68,
+      "baseline_delay_2023_min": 0.11,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 14.28,
+      "eta_traffic_2023_tgcf_corrected_min": 12.82,
+      "baseline_delay_2023_min": 6.25,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 6.57,
+      "eta_traffic_today_min": 10.63,
+      "eta_traffic_2023_tgcf_corrected_min": 9.55,
+      "baseline_delay_2023_min": 2.98,
+      "captured_at_real_hour": 14
+    }
+  },
+  "ORR North 2": {
+    "10": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 20.28,
+      "eta_traffic_2023_tgcf_corrected_min": 18.21,
+      "baseline_delay_2023_min": 7.96,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 22.6,
+      "eta_traffic_2023_tgcf_corrected_min": 20.29,
+      "baseline_delay_2023_min": 10.04,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 25.2,
+      "eta_traffic_2023_tgcf_corrected_min": 22.63,
+      "baseline_delay_2023_min": 12.38,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 26.43,
+      "eta_traffic_2023_tgcf_corrected_min": 23.73,
+      "baseline_delay_2023_min": 13.48,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 16.84,
+      "eta_traffic_2023_tgcf_corrected_min": 15.12,
+      "baseline_delay_2023_min": 4.87,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 19.28,
+      "eta_traffic_2023_tgcf_corrected_min": 17.31,
+      "baseline_delay_2023_min": 7.06,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 12.95,
+      "eta_traffic_2023_tgcf_corrected_min": 11.63,
+      "baseline_delay_2023_min": 1.38,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 10.81,
+      "eta_traffic_2023_tgcf_corrected_min": 9.71,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 14.97,
+      "eta_traffic_2023_tgcf_corrected_min": 13.44,
+      "baseline_delay_2023_min": 3.19,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 12.04,
+      "eta_traffic_2023_tgcf_corrected_min": 10.81,
+      "baseline_delay_2023_min": 0.56,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 20.01,
+      "eta_traffic_2023_tgcf_corrected_min": 17.97,
+      "baseline_delay_2023_min": 7.72,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 10.25,
+      "eta_traffic_today_min": 23.7,
+      "eta_traffic_2023_tgcf_corrected_min": 21.28,
+      "baseline_delay_2023_min": 11.03,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Bannerghata Road": {
+    "10": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 33.41,
+      "eta_traffic_2023_tgcf_corrected_min": 30.0,
+      "baseline_delay_2023_min": 9.82,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 34.26,
+      "eta_traffic_2023_tgcf_corrected_min": 30.77,
+      "baseline_delay_2023_min": 10.59,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 35.38,
+      "eta_traffic_2023_tgcf_corrected_min": 31.77,
+      "baseline_delay_2023_min": 11.59,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 36.09,
+      "eta_traffic_2023_tgcf_corrected_min": 32.41,
+      "baseline_delay_2023_min": 12.23,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 24.55,
+      "eta_traffic_2023_tgcf_corrected_min": 22.05,
+      "baseline_delay_2023_min": 1.87,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 20.02,
+      "eta_traffic_2023_tgcf_corrected_min": 17.98,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 17.68,
+      "eta_traffic_2023_tgcf_corrected_min": 15.88,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 16.43,
+      "eta_traffic_2023_tgcf_corrected_min": 14.75,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 16.87,
+      "eta_traffic_2023_tgcf_corrected_min": 15.15,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 18.16,
+      "eta_traffic_2023_tgcf_corrected_min": 16.31,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 33.9,
+      "eta_traffic_2023_tgcf_corrected_min": 30.44,
+      "baseline_delay_2023_min": 10.26,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 20.18,
+      "eta_traffic_today_min": 30.97,
+      "eta_traffic_2023_tgcf_corrected_min": 27.81,
+      "baseline_delay_2023_min": 7.63,
+      "captured_at_real_hour": 14
+    }
+  },
+  "ORR East 2": {
+    "10": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 25.64,
+      "eta_traffic_2023_tgcf_corrected_min": 23.02,
+      "baseline_delay_2023_min": 11.78,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 22.34,
+      "eta_traffic_2023_tgcf_corrected_min": 20.06,
+      "baseline_delay_2023_min": 8.82,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 17.88,
+      "eta_traffic_2023_tgcf_corrected_min": 16.06,
+      "baseline_delay_2023_min": 4.82,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 18.2,
+      "eta_traffic_2023_tgcf_corrected_min": 16.34,
+      "baseline_delay_2023_min": 5.1,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 14.39,
+      "eta_traffic_2023_tgcf_corrected_min": 12.92,
+      "baseline_delay_2023_min": 1.68,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 13.28,
+      "eta_traffic_2023_tgcf_corrected_min": 11.93,
+      "baseline_delay_2023_min": 0.69,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 11.53,
+      "eta_traffic_2023_tgcf_corrected_min": 10.35,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 11.62,
+      "eta_traffic_2023_tgcf_corrected_min": 10.43,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 11.72,
+      "eta_traffic_2023_tgcf_corrected_min": 10.52,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 11.05,
+      "eta_traffic_2023_tgcf_corrected_min": 9.92,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 16.53,
+      "eta_traffic_2023_tgcf_corrected_min": 14.84,
+      "baseline_delay_2023_min": 3.6,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 11.24,
+      "eta_traffic_today_min": 15.07,
+      "eta_traffic_2023_tgcf_corrected_min": 13.53,
+      "baseline_delay_2023_min": 2.29,
+      "captured_at_real_hour": 14
+    }
+  },
+  "West of Chord Road": {
+    "10": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 14.11,
+      "eta_traffic_2023_tgcf_corrected_min": 12.67,
+      "baseline_delay_2023_min": 0.7,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 13.8,
+      "eta_traffic_2023_tgcf_corrected_min": 12.39,
+      "baseline_delay_2023_min": 0.42,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 14.5,
+      "eta_traffic_2023_tgcf_corrected_min": 13.02,
+      "baseline_delay_2023_min": 1.05,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 13.93,
+      "eta_traffic_2023_tgcf_corrected_min": 12.51,
+      "baseline_delay_2023_min": 0.54,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 11.45,
+      "eta_traffic_2023_tgcf_corrected_min": 10.28,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 10.1,
+      "eta_traffic_2023_tgcf_corrected_min": 9.07,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 10.3,
+      "eta_traffic_2023_tgcf_corrected_min": 9.25,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 9.37,
+      "eta_traffic_2023_tgcf_corrected_min": 8.41,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 10.67,
+      "eta_traffic_2023_tgcf_corrected_min": 9.58,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 10.21,
+      "eta_traffic_2023_tgcf_corrected_min": 9.17,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 12.8,
+      "eta_traffic_2023_tgcf_corrected_min": 11.49,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 11.97,
+      "eta_traffic_today_min": 14.51,
+      "eta_traffic_2023_tgcf_corrected_min": 13.03,
+      "baseline_delay_2023_min": 1.06,
+      "captured_at_real_hour": 14
+    }
+  },
+  "CBD 2": {
+    "10": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 3.06,
+      "eta_traffic_2023_tgcf_corrected_min": 2.75,
+      "baseline_delay_2023_min": 1.32,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 2.93,
+      "eta_traffic_2023_tgcf_corrected_min": 2.63,
+      "baseline_delay_2023_min": 1.2,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 3.04,
+      "eta_traffic_2023_tgcf_corrected_min": 2.73,
+      "baseline_delay_2023_min": 1.3,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 4.86,
+      "eta_traffic_2023_tgcf_corrected_min": 4.36,
+      "baseline_delay_2023_min": 2.93,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 2.34,
+      "eta_traffic_2023_tgcf_corrected_min": 2.1,
+      "baseline_delay_2023_min": 0.67,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 1.97,
+      "eta_traffic_2023_tgcf_corrected_min": 1.77,
+      "baseline_delay_2023_min": 0.34,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 1.58,
+      "eta_traffic_2023_tgcf_corrected_min": 1.42,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 1.38,
+      "eta_traffic_2023_tgcf_corrected_min": 1.24,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 1.22,
+      "eta_traffic_2023_tgcf_corrected_min": 1.1,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 1.5,
+      "eta_traffic_2023_tgcf_corrected_min": 1.35,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 2.61,
+      "eta_traffic_2023_tgcf_corrected_min": 2.34,
+      "baseline_delay_2023_min": 0.91,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 1.43,
+      "eta_traffic_today_min": 2.67,
+      "eta_traffic_2023_tgcf_corrected_min": 2.4,
+      "baseline_delay_2023_min": 0.97,
+      "captured_at_real_hour": 14
+    }
+  },
+  "IRR(Thanisandra road)": {
+    "10": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 7.3,
+      "eta_traffic_2023_tgcf_corrected_min": 6.56,
+      "baseline_delay_2023_min": 2.07,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 7.83,
+      "eta_traffic_2023_tgcf_corrected_min": 7.03,
+      "baseline_delay_2023_min": 2.54,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 9.68,
+      "eta_traffic_2023_tgcf_corrected_min": 8.69,
+      "baseline_delay_2023_min": 4.2,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 7.36,
+      "eta_traffic_2023_tgcf_corrected_min": 6.61,
+      "baseline_delay_2023_min": 2.12,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 4.99,
+      "eta_traffic_2023_tgcf_corrected_min": 4.48,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 8.37,
+      "eta_traffic_2023_tgcf_corrected_min": 7.52,
+      "baseline_delay_2023_min": 3.03,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 4.28,
+      "eta_traffic_2023_tgcf_corrected_min": 3.84,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 4.04,
+      "eta_traffic_2023_tgcf_corrected_min": 3.63,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 4.78,
+      "eta_traffic_2023_tgcf_corrected_min": 4.29,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 4.37,
+      "eta_traffic_2023_tgcf_corrected_min": 3.92,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 7.71,
+      "eta_traffic_2023_tgcf_corrected_min": 6.92,
+      "baseline_delay_2023_min": 2.43,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 4.49,
+      "eta_traffic_today_min": 8.51,
+      "eta_traffic_2023_tgcf_corrected_min": 7.64,
+      "baseline_delay_2023_min": 3.15,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Hennur Main Road": {
+    "10": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 30.82,
+      "eta_traffic_2023_tgcf_corrected_min": 27.68,
+      "baseline_delay_2023_min": 2.13,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 34.12,
+      "eta_traffic_2023_tgcf_corrected_min": 30.64,
+      "baseline_delay_2023_min": 5.09,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 45.4,
+      "eta_traffic_2023_tgcf_corrected_min": 40.77,
+      "baseline_delay_2023_min": 15.22,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 41.37,
+      "eta_traffic_2023_tgcf_corrected_min": 37.15,
+      "baseline_delay_2023_min": 11.6,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 27.62,
+      "eta_traffic_2023_tgcf_corrected_min": 24.8,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 23.17,
+      "eta_traffic_2023_tgcf_corrected_min": 20.81,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 21.72,
+      "eta_traffic_2023_tgcf_corrected_min": 19.5,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 22.62,
+      "eta_traffic_2023_tgcf_corrected_min": 20.31,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 21.62,
+      "eta_traffic_2023_tgcf_corrected_min": 19.41,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 23.95,
+      "eta_traffic_2023_tgcf_corrected_min": 21.51,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 33.2,
+      "eta_traffic_2023_tgcf_corrected_min": 29.81,
+      "baseline_delay_2023_min": 4.26,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 25.55,
+      "eta_traffic_today_min": 32.66,
+      "eta_traffic_2023_tgcf_corrected_min": 29.33,
+      "baseline_delay_2023_min": 3.78,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Varthur Road": {
+    "10": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 26.99,
+      "eta_traffic_2023_tgcf_corrected_min": 24.24,
+      "baseline_delay_2023_min": 12.74,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 23.12,
+      "eta_traffic_2023_tgcf_corrected_min": 20.76,
+      "baseline_delay_2023_min": 9.26,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 51.88,
+      "eta_traffic_2023_tgcf_corrected_min": 46.59,
+      "baseline_delay_2023_min": 35.09,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 49.2,
+      "eta_traffic_2023_tgcf_corrected_min": 44.18,
+      "baseline_delay_2023_min": 32.68,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 16.22,
+      "eta_traffic_2023_tgcf_corrected_min": 14.57,
+      "baseline_delay_2023_min": 3.07,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 13.81,
+      "eta_traffic_2023_tgcf_corrected_min": 12.4,
+      "baseline_delay_2023_min": 0.9,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 10.84,
+      "eta_traffic_2023_tgcf_corrected_min": 9.73,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 11.98,
+      "eta_traffic_2023_tgcf_corrected_min": 10.76,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 11.86,
+      "eta_traffic_2023_tgcf_corrected_min": 10.65,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 12.44,
+      "eta_traffic_2023_tgcf_corrected_min": 11.17,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 20.32,
+      "eta_traffic_2023_tgcf_corrected_min": 18.25,
+      "baseline_delay_2023_min": 6.75,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 11.5,
+      "eta_traffic_today_min": 21.46,
+      "eta_traffic_2023_tgcf_corrected_min": 19.27,
+      "baseline_delay_2023_min": 7.77,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Old Airport Road": {
+    "10": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 12.34,
+      "eta_traffic_2023_tgcf_corrected_min": 11.08,
+      "baseline_delay_2023_min": 2.54,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 10.87,
+      "eta_traffic_2023_tgcf_corrected_min": 9.76,
+      "baseline_delay_2023_min": 1.22,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 13.25,
+      "eta_traffic_2023_tgcf_corrected_min": 11.9,
+      "baseline_delay_2023_min": 3.36,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 11.85,
+      "eta_traffic_2023_tgcf_corrected_min": 10.64,
+      "baseline_delay_2023_min": 2.1,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 9.97,
+      "eta_traffic_2023_tgcf_corrected_min": 8.95,
+      "baseline_delay_2023_min": 0.41,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 9.04,
+      "eta_traffic_2023_tgcf_corrected_min": 8.12,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 7.65,
+      "eta_traffic_2023_tgcf_corrected_min": 6.87,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 6.63,
+      "eta_traffic_2023_tgcf_corrected_min": 5.95,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 9.59,
+      "eta_traffic_2023_tgcf_corrected_min": 8.61,
+      "baseline_delay_2023_min": 0.07,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 8.32,
+      "eta_traffic_2023_tgcf_corrected_min": 7.47,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 10.5,
+      "eta_traffic_2023_tgcf_corrected_min": 9.43,
+      "baseline_delay_2023_min": 0.89,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 8.54,
+      "eta_traffic_today_min": 11.58,
+      "eta_traffic_2023_tgcf_corrected_min": 10.4,
+      "baseline_delay_2023_min": 1.86,
+      "captured_at_real_hour": 14
+    }
+  },
+  "Airport New South Road": {
+    "10": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 24.42,
+      "eta_traffic_2023_tgcf_corrected_min": 21.93,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 24.03,
+      "eta_traffic_2023_tgcf_corrected_min": 21.58,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 23.51,
+      "eta_traffic_2023_tgcf_corrected_min": 21.11,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 23.38,
+      "eta_traffic_2023_tgcf_corrected_min": 21.0,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 21.06,
+      "eta_traffic_2023_tgcf_corrected_min": 18.91,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 21.93,
+      "eta_traffic_2023_tgcf_corrected_min": 19.69,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 19.05,
+      "eta_traffic_2023_tgcf_corrected_min": 17.11,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 19.06,
+      "eta_traffic_2023_tgcf_corrected_min": 17.12,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 19.11,
+      "eta_traffic_2023_tgcf_corrected_min": 17.16,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 19.04,
+      "eta_traffic_2023_tgcf_corrected_min": 17.1,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 21.36,
+      "eta_traffic_2023_tgcf_corrected_min": 19.18,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 24.75,
+      "eta_traffic_today_min": 22.99,
+      "eta_traffic_2023_tgcf_corrected_min": 20.65,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 14
+    }
+  },
+  "CBD 1": {
+    "10": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 12.5,
+      "eta_traffic_2023_tgcf_corrected_min": 11.22,
+      "baseline_delay_2023_min": 7.2,
+      "captured_at_real_hour": 10
+    },
+    "16": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 10.99,
+      "eta_traffic_2023_tgcf_corrected_min": 9.87,
+      "baseline_delay_2023_min": 5.85,
+      "captured_at_real_hour": 16
+    },
+    "18": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 11.34,
+      "eta_traffic_2023_tgcf_corrected_min": 10.18,
+      "baseline_delay_2023_min": 6.16,
+      "captured_at_real_hour": 18
+    },
+    "20": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 9.49,
+      "eta_traffic_2023_tgcf_corrected_min": 8.52,
+      "baseline_delay_2023_min": 4.5,
+      "captured_at_real_hour": 20
+    },
+    "22": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 8.06,
+      "eta_traffic_2023_tgcf_corrected_min": 7.24,
+      "baseline_delay_2023_min": 3.22,
+      "captured_at_real_hour": 22
+    },
+    "0": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 7.19,
+      "eta_traffic_2023_tgcf_corrected_min": 6.46,
+      "baseline_delay_2023_min": 2.44,
+      "captured_at_real_hour": 0
+    },
+    "2": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 4.24,
+      "eta_traffic_2023_tgcf_corrected_min": 3.81,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 2
+    },
+    "4": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 4.12,
+      "eta_traffic_2023_tgcf_corrected_min": 3.7,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 4
+    },
+    "6": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 3.89,
+      "eta_traffic_2023_tgcf_corrected_min": 3.49,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 6
+    },
+    "8": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 4.35,
+      "eta_traffic_2023_tgcf_corrected_min": 3.91,
+      "baseline_delay_2023_min": 0.0,
+      "captured_at_real_hour": 8
+    },
+    "12": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 9.03,
+      "eta_traffic_2023_tgcf_corrected_min": 8.11,
+      "baseline_delay_2023_min": 4.09,
+      "captured_at_real_hour": 12
+    },
+    "14": {
+      "eta_normal_min": 4.02,
+      "eta_traffic_today_min": 10.55,
+      "eta_traffic_2023_tgcf_corrected_min": 9.47,
+      "baseline_delay_2023_min": 5.45,
+      "captured_at_real_hour": 14
+    }
+  },
+  "_meta": {
+    "tgcf": 0.898,
+    "tgcf_derivation": "115 lakh vehicles (2023-24) / 128 lakh vehicles (2026 today)",
+    "time_slots_queried": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22
+    ],
+    "status": "LIVE_DATA_INCREMENTAL - each slot captured at its own matching real hour, not duplicated from a single call",
+    "unmatched_corridors": [],
+    "slots_still_missing_per_corridor": {}
+  }
+}

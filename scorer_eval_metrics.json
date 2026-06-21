@@ -1,0 +1,31 @@
+{
+  "max_possible_95th_pct": 13.6336019889513,
+  "validation": {
+    "mean_cis_closed": 1.9646149760564797,
+    "mean_cis_not_closed": 1.5772716489279357
+  },
+  "sanity_checks": {
+    "construction_gt_breakdown": true,
+    "peak_gt_night": true,
+    "closure_true_gt_false": true,
+    "planned_gt_unplanned": true
+  },
+  "xgb_regressor": {
+    "mae": 0.4441023850495372,
+    "rmse": 0.9260865181935358,
+    "r2": 0.8925413831212559,
+    "feature_importances": {
+      "hour": 0.40129077434539795,
+      "corridor_final_code": 0.31164950132369995,
+      "priority_high": 0.10126174241304398,
+      "police_station_code": 0.04636640101671219,
+      "event_type_planned": 0.03159892559051514,
+      "event_cause_code": 0.03061431646347046,
+      "was_escalated_int": 0.023496543988585472,
+      "month": 0.020413892343640327,
+      "dow_num": 0.019935475662350655,
+      "is_weekend_int": 0.01337241381406784
+    },
+    "test_set_size": 1605
+  }
+}

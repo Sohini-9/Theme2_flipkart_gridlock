@@ -1,0 +1,730 @@
+{
+  "Airport New South Road": {
+    "confidence": "LOW_CONFIDENCE",
+    "confidence_reasons": [
+      "avg_weekly=4.22 < 8.0"
+    ],
+    "avg_weekly_incidents_historical": 4.217391304347826,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 4.3,
+        "yhat_lower": 0.0,
+        "yhat_upper": 8.9
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 4.3,
+        "yhat_lower": 0.0,
+        "yhat_upper": 9.0
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 4.4,
+        "yhat_lower": 0.0,
+        "yhat_upper": 9.0
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 4.4,
+        "yhat_lower": 0.0,
+        "yhat_upper": 9.0
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Airport_New_South_Road.pkl"
+  },
+  "Bannerghata Road": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 9.782608695652174,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 11.2,
+        "yhat_lower": 1.1,
+        "yhat_upper": 21.3
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 11.4,
+        "yhat_lower": 1.7,
+        "yhat_upper": 20.9
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 11.5,
+        "yhat_lower": 1.5,
+        "yhat_upper": 20.5
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 11.6,
+        "yhat_lower": 2.3,
+        "yhat_upper": 21.3
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Bannerghata_Road.pkl"
+  },
+  "Bellary Road 1": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 29.695652173913043,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 33.6,
+        "yhat_lower": 18.0,
+        "yhat_upper": 50.0
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 33.9,
+        "yhat_lower": 19.0,
+        "yhat_upper": 48.0
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 34.2,
+        "yhat_lower": 17.3,
+        "yhat_upper": 49.6
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 34.5,
+        "yhat_lower": 18.9,
+        "yhat_upper": 49.2
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Bellary_Road_1.pkl"
+  },
+  "Bellary Road 2": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 18.391304347826086,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 14.9,
+        "yhat_lower": 7.1,
+        "yhat_upper": 22.6
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 14.6,
+        "yhat_lower": 6.6,
+        "yhat_upper": 22.4
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 14.3,
+        "yhat_lower": 6.2,
+        "yhat_upper": 22.1
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 14.0,
+        "yhat_lower": 6.1,
+        "yhat_upper": 21.8
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Bellary_Road_2.pkl"
+  },
+  "CBD 1": {
+    "confidence": "LOW_CONFIDENCE",
+    "confidence_reasons": [
+      "avg_weekly=1.13 < 8.0",
+      "zero_week_fraction=0.52 > 0.25"
+    ],
+    "avg_weekly_incidents_historical": 1.1304347826086956,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 1.8,
+        "yhat_lower": -0.0,
+        "yhat_upper": 3.7
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 1.8,
+        "yhat_lower": 0.0,
+        "yhat_upper": 3.7
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 1.9,
+        "yhat_lower": -0.0,
+        "yhat_upper": 3.8
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 2.0,
+        "yhat_lower": 0.1,
+        "yhat_upper": 3.8
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/CBD_1.pkl"
+  },
+  "CBD 2": {
+    "confidence": "LOW_CONFIDENCE",
+    "confidence_reasons": [
+      "avg_weekly=4.61 < 8.0"
+    ],
+    "avg_weekly_incidents_historical": 4.608695652173913,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 4.7,
+        "yhat_lower": 1.6,
+        "yhat_upper": 7.9
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 4.7,
+        "yhat_lower": 1.7,
+        "yhat_upper": 7.7
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 4.7,
+        "yhat_lower": 1.6,
+        "yhat_upper": 8.1
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 4.7,
+        "yhat_lower": 1.4,
+        "yhat_upper": 8.1
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/CBD_2.pkl"
+  },
+  "Hennur Main Road": {
+    "confidence": "LOW_CONFIDENCE",
+    "confidence_reasons": [
+      "avg_weekly=5.13 < 8.0"
+    ],
+    "avg_weekly_incidents_historical": 5.130434782608695,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 4.9,
+        "yhat_lower": 0.0,
+        "yhat_upper": 9.4
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 4.9,
+        "yhat_lower": 0.3,
+        "yhat_upper": 9.7
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 4.9,
+        "yhat_lower": 0.1,
+        "yhat_upper": 9.6
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 4.9,
+        "yhat_lower": 0.1,
+        "yhat_upper": 9.7
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Hennur_Main_Road.pkl"
+  },
+  "Hosur Road": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 15.695652173913043,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 11.5,
+        "yhat_lower": 0.0,
+        "yhat_upper": 31.0
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 11.1,
+        "yhat_lower": 0.0,
+        "yhat_upper": 30.8
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 10.8,
+        "yhat_lower": 0.0,
+        "yhat_upper": 30.7
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 10.4,
+        "yhat_lower": 0.0,
+        "yhat_upper": 31.4
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Hosur_Road.pkl"
+  },
+  "IRR(Thanisandra road)": {
+    "confidence": "LOW_CONFIDENCE",
+    "confidence_reasons": [
+      "avg_weekly=4.91 < 8.0"
+    ],
+    "avg_weekly_incidents_historical": 4.913043478260869,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 5.0,
+        "yhat_lower": 0.0,
+        "yhat_upper": 10.9
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 5.0,
+        "yhat_lower": 0.0,
+        "yhat_upper": 10.7
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 5.0,
+        "yhat_lower": 0.0,
+        "yhat_upper": 11.1
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 5.0,
+        "yhat_lower": 0.0,
+        "yhat_upper": 10.9
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/IRR_Thanisandra_road.pkl"
+  },
+  "Magadi Road": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 14.91304347826087,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 17.0,
+        "yhat_lower": 10.7,
+        "yhat_upper": 24.0
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 17.2,
+        "yhat_lower": 10.3,
+        "yhat_upper": 23.4
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 17.4,
+        "yhat_lower": 11.4,
+        "yhat_upper": 24.0
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 17.6,
+        "yhat_lower": 10.7,
+        "yhat_upper": 23.7
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Magadi_Road.pkl"
+  },
+  "Mysore Road": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 40.21739130434783,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 44.0,
+        "yhat_lower": 24.0,
+        "yhat_upper": 64.2
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 44.4,
+        "yhat_lower": 24.2,
+        "yhat_upper": 64.2
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 44.7,
+        "yhat_lower": 24.9,
+        "yhat_upper": 65.0
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 45.0,
+        "yhat_lower": 25.8,
+        "yhat_upper": 63.0
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Mysore_Road.pkl"
+  },
+  "Non-corridor": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 80.1304347826087,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 92.6,
+        "yhat_lower": 46.6,
+        "yhat_upper": 138.3
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 93.6,
+        "yhat_lower": 51.0,
+        "yhat_upper": 136.0
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 94.7,
+        "yhat_lower": 48.0,
+        "yhat_upper": 136.9
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 95.7,
+        "yhat_lower": 53.7,
+        "yhat_upper": 139.7
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Non_corridor.pkl"
+  },
+  "ORR East 1": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 11.956521739130435,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 14.7,
+        "yhat_lower": 5.2,
+        "yhat_upper": 24.8
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 14.9,
+        "yhat_lower": 5.3,
+        "yhat_upper": 24.0
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 15.1,
+        "yhat_lower": 5.3,
+        "yhat_upper": 25.1
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 15.4,
+        "yhat_lower": 5.9,
+        "yhat_upper": 25.0
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/ORR_East_1.pkl"
+  },
+  "ORR East 2": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 17.608695652173914,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 21.4,
+        "yhat_lower": 12.2,
+        "yhat_upper": 30.2
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 21.8,
+        "yhat_lower": 13.1,
+        "yhat_upper": 30.8
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 22.1,
+        "yhat_lower": 13.2,
+        "yhat_upper": 30.7
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 22.4,
+        "yhat_lower": 14.1,
+        "yhat_upper": 30.8
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/ORR_East_2.pkl"
+  },
+  "ORR North 1": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 12.347826086956522,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 14.7,
+        "yhat_lower": 7.4,
+        "yhat_upper": 22.1
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 14.8,
+        "yhat_lower": 7.5,
+        "yhat_upper": 21.6
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 15.0,
+        "yhat_lower": 7.8,
+        "yhat_upper": 21.9
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 15.2,
+        "yhat_lower": 8.1,
+        "yhat_upper": 22.4
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/ORR_North_1.pkl"
+  },
+  "ORR North 2": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 12.173913043478262,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 15.8,
+        "yhat_lower": 9.2,
+        "yhat_upper": 22.6
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 16.1,
+        "yhat_lower": 8.9,
+        "yhat_upper": 22.8
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 16.4,
+        "yhat_lower": 9.6,
+        "yhat_upper": 23.6
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 16.7,
+        "yhat_lower": 9.4,
+        "yhat_upper": 23.4
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/ORR_North_2.pkl"
+  },
+  "ORR West 1": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 14.73913043478261,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 18.6,
+        "yhat_lower": 9.1,
+        "yhat_upper": 27.8
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 18.9,
+        "yhat_lower": 9.5,
+        "yhat_upper": 29.0
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 19.3,
+        "yhat_lower": 9.3,
+        "yhat_upper": 28.9
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 19.6,
+        "yhat_lower": 10.1,
+        "yhat_upper": 28.9
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/ORR_West_1.pkl"
+  },
+  "Old Airport Road": {
+    "confidence": "LOW_CONFIDENCE",
+    "confidence_reasons": [
+      "avg_weekly=3.26 < 8.0"
+    ],
+    "avg_weekly_incidents_historical": 3.260869565217391,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 3.1,
+        "yhat_lower": 0.0,
+        "yhat_upper": 6.7
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 3.1,
+        "yhat_lower": 0.0,
+        "yhat_upper": 6.6
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 3.1,
+        "yhat_lower": 0.0,
+        "yhat_upper": 6.7
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 3.1,
+        "yhat_lower": 0.0,
+        "yhat_upper": 6.4
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Old_Airport_Road.pkl"
+  },
+  "Old Madras Road": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 11.869565217391305,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 13.6,
+        "yhat_lower": 6.4,
+        "yhat_upper": 21.0
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 13.8,
+        "yhat_lower": 6.1,
+        "yhat_upper": 21.7
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 13.9,
+        "yhat_lower": 6.4,
+        "yhat_upper": 21.3
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 14.0,
+        "yhat_lower": 6.1,
+        "yhat_upper": 21.4
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Old_Madras_Road.pkl"
+  },
+  "Tumkur Road": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 24.347826086956523,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 28.5,
+        "yhat_lower": 17.2,
+        "yhat_upper": 38.5
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 28.8,
+        "yhat_lower": 17.6,
+        "yhat_upper": 38.3
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 29.1,
+        "yhat_lower": 18.3,
+        "yhat_upper": 39.7
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 29.5,
+        "yhat_lower": 18.6,
+        "yhat_upper": 40.0
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Tumkur_Road.pkl"
+  },
+  "Varthur Road": {
+    "confidence": "LOW_CONFIDENCE",
+    "confidence_reasons": [
+      "avg_weekly=3.35 < 8.0"
+    ],
+    "avg_weekly_incidents_historical": 3.347826086956522,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 3.2,
+        "yhat_lower": 0.2,
+        "yhat_upper": 6.5
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 3.2,
+        "yhat_lower": 0.0,
+        "yhat_upper": 6.3
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 3.2,
+        "yhat_lower": -0.0,
+        "yhat_upper": 6.4
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 3.2,
+        "yhat_lower": 0.0,
+        "yhat_upper": 6.2
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/Varthur_Road.pkl"
+  },
+  "West of Chord Road": {
+    "confidence": "OK",
+    "confidence_reasons": [],
+    "avg_weekly_incidents_historical": 8.391304347826088,
+    "next_weeks_forecast": [
+      {
+        "week_start": "2024-04-15",
+        "predicted_incidents": 11.9,
+        "yhat_lower": 6.4,
+        "yhat_upper": 17.7
+      },
+      {
+        "week_start": "2024-04-22",
+        "predicted_incidents": 12.2,
+        "yhat_lower": 6.6,
+        "yhat_upper": 18.2
+      },
+      {
+        "week_start": "2024-04-29",
+        "predicted_incidents": 12.5,
+        "yhat_lower": 6.9,
+        "yhat_upper": 17.9
+      },
+      {
+        "week_start": "2024-05-06",
+        "predicted_incidents": 12.8,
+        "yhat_lower": 7.2,
+        "yhat_upper": 18.0
+      }
+    ],
+    "model_path": "/content/drive/MyDrive/flipkart/prophet_models/West_of_Chord_Road.pkl"
+  },
+  "_meta": {
+    "forecast_horizon_weeks": 4,
+    "train_end": "2024-02-29",
+    "test_start": "2024-03-01",
+    "total_weeks_in_dataset": 23,
+    "low_confidence_threshold_avg_weekly": 8.0,
+    "low_confidence_threshold_zero_week_fraction": 0.25,
+    "note": "'Non-corridor' included as its own series - a real, large bucket (~38% of incidents), not a road, mixed geography by construction."
+  }
+}

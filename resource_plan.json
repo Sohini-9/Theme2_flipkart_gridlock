@@ -1,0 +1,341 @@
+[
+  {
+    "event": {
+      "latitude": 12.9716,
+      "longitude": 77.5573,
+      "event_cause": "pot_holes",
+      "event_type": "unplanned",
+      "priority": "LOW",
+      "timestamp": "2026-06-20T14:00:00"
+    },
+    "prediction": {
+      "input": {
+        "latitude": 12.9716,
+        "longitude": 77.5573,
+        "event_cause": "pot_holes",
+        "event_type": "unplanned",
+        "priority": "LOW",
+        "timestamp": "2026-06-20T14:00:00+00:00",
+        "was_escalated": false,
+        "description": "",
+        "address": ""
+      },
+      "resolved_location": {
+        "corridor_final": "Non-corridor",
+        "corridor_confidence": 0.74,
+        "corridor_agreement": 0,
+        "corridor_source": "unresolved",
+        "rf_corridor_prediction": "Mysore Road",
+        "rf_corridor_confidence": 0.48,
+        "knn_corridor_prediction": "Magadi Road",
+        "knn_corridor_confidence": 1.0,
+        "police_station": "Magadi Road",
+        "police_station_nn_distance_km": 0.45525158518775516
+      },
+      "baseline_lookup": {
+        "baseline_corridor": "Magadi Road",
+        "baseline_source": "nearest_neighbor_fallback",
+        "nn_distance_km": 0.45525158518775516
+      },
+      "closure_prediction": {
+        "requires_road_closure_predicted": false,
+        "closure_probability": 0.1874,
+        "decision_threshold": 0.23,
+        "model": "blend(ExtraTrees_w6 x0.5 + RandomForest_w4 x0.5)",
+        "model_roc_auc": 0.8188,
+        "text_available": false,
+        "model_a_probability": 0.205,
+        "model_b_structured_probability": 0.1698
+      },
+      "congestion_impact_score": {
+        "cis_formula_based": 2.544,
+        "cis_ml_based": 2.289,
+        "cis_ml_model_class": "XGBRegressor",
+        "baseline_delay_min": 6.43,
+        "signal_score": 0.0539,
+        "snapped_hour_used_for_baseline": 14
+      },
+      "corridor_forecast_context": {
+        "available": true,
+        "confidence": "OK",
+        "avg_weekly_incidents_historical": 80.1304347826087,
+        "next_week_forecast": {
+          "week_start": "2024-04-15",
+          "predicted_incidents": 92.6,
+          "yhat_lower": 46.6,
+          "yhat_upper": 138.3
+        }
+      }
+    },
+    "resource_plan": {
+      "cis_used": 2.289,
+      "cis_used_source": "cis_ml_based",
+      "cis_based_tier": "LOW",
+      "closure_predicted": false,
+      "closure_probability": 0.1874,
+      "closure_override_applied": false,
+      "final_tier": "LOW",
+      "officer_count": 1,
+      "barricade_count": 0,
+      "diversion_priority": "NONE",
+      "rationale": "Minor incident, bottom quartile of the ML-predicted CIS distribution, historical closure rate in this band is ~5.3%. Single officer for traffic guidance/logging; no physical barricading by default.",
+      "cis_disagreement_check": {
+        "checked": true,
+        "cis_formula_based": 2.544,
+        "cis_ml_based": 2.289,
+        "absolute_gap": 0.255,
+        "flagged_as_high_disagreement": false
+      },
+      "tier_thresholds_used": [
+        {
+          "name": "LOW",
+          "min_cis": 0.0,
+          "max_cis": 3.4
+        },
+        {
+          "name": "MODERATE",
+          "min_cis": 3.4,
+          "max_cis": 4.7
+        },
+        {
+          "name": "ELEVATED",
+          "min_cis": 4.7,
+          "max_cis": 7.3
+        },
+        {
+          "name": "HIGH",
+          "min_cis": 7.3,
+          "max_cis": 10.001
+        }
+      ],
+      "resource_counts_are_reasoned_defaults_not_learned": true,
+      "generated_at": "2026-06-21T14:32:55.950114+00:00"
+    }
+  },
+  {
+    "event": {
+      "latitude": 13.005,
+      "longitude": 77.57,
+      "event_cause": "vip_movement",
+      "event_type": "planned",
+      "priority": "HIGH",
+      "timestamp": "2026-06-20T09:00:00"
+    },
+    "prediction": {
+      "input": {
+        "latitude": 13.005,
+        "longitude": 77.57,
+        "event_cause": "vip_movement",
+        "event_type": "planned",
+        "priority": "HIGH",
+        "timestamp": "2026-06-20T09:00:00+00:00",
+        "was_escalated": false,
+        "description": "",
+        "address": ""
+      },
+      "resolved_location": {
+        "corridor_final": "Non-corridor",
+        "corridor_confidence": 0.7066666666666667,
+        "corridor_agreement": 0,
+        "corridor_source": "unresolved",
+        "rf_corridor_prediction": "Bellary Road 1",
+        "rf_corridor_confidence": 0.4133,
+        "knn_corridor_prediction": "Tumkur Road",
+        "knn_corridor_confidence": 1.0,
+        "police_station": "Malleshwaram",
+        "police_station_nn_distance_km": 0.10070923256805715
+      },
+      "baseline_lookup": {
+        "baseline_corridor": "Bellary Road 1",
+        "baseline_source": "nearest_neighbor_fallback",
+        "nn_distance_km": 0.7305391031115821
+      },
+      "closure_prediction": {
+        "requires_road_closure_predicted": true,
+        "closure_probability": 0.4424,
+        "decision_threshold": 0.23,
+        "model": "blend(ExtraTrees_w6 x0.5 + RandomForest_w4 x0.5)",
+        "model_roc_auc": 0.8188,
+        "text_available": false,
+        "model_a_probability": 0.5183,
+        "model_b_structured_probability": 0.3664
+      },
+      "congestion_impact_score": {
+        "cis_formula_based": 0.0,
+        "cis_ml_based": 0.0,
+        "cis_ml_model_class": "XGBRegressor",
+        "baseline_delay_min": 0.0,
+        "signal_score": 0.1008,
+        "snapped_hour_used_for_baseline": 8
+      },
+      "corridor_forecast_context": {
+        "available": true,
+        "confidence": "OK",
+        "avg_weekly_incidents_historical": 80.1304347826087,
+        "next_week_forecast": {
+          "week_start": "2024-04-15",
+          "predicted_incidents": 92.6,
+          "yhat_lower": 46.6,
+          "yhat_upper": 138.3
+        }
+      }
+    },
+    "resource_plan": {
+      "cis_used": 0.0,
+      "cis_used_source": "cis_ml_based",
+      "cis_based_tier": "LOW",
+      "closure_predicted": true,
+      "closure_probability": 0.4424,
+      "closure_override_applied": true,
+      "final_tier": "ELEVATED",
+      "officer_count": 3,
+      "barricade_count": 4,
+      "diversion_priority": "ADVISORY",
+      "rationale": "Third quartile. Closure rate climbs to ~7.0% here, the first sign of the upward trend that peaks in the top quartile - ADVISORY diversion means a route is computed and ready but not pushed to drivers/dashboard by default, only on operator confirmation.",
+      "cis_disagreement_check": {
+        "checked": true,
+        "cis_formula_based": 0.0,
+        "cis_ml_based": 0.0,
+        "absolute_gap": 0.0,
+        "flagged_as_high_disagreement": false
+      },
+      "tier_thresholds_used": [
+        {
+          "name": "LOW",
+          "min_cis": 0.0,
+          "max_cis": 3.4
+        },
+        {
+          "name": "MODERATE",
+          "min_cis": 3.4,
+          "max_cis": 4.7
+        },
+        {
+          "name": "ELEVATED",
+          "min_cis": 4.7,
+          "max_cis": 7.3
+        },
+        {
+          "name": "HIGH",
+          "min_cis": 7.3,
+          "max_cis": 10.001
+        }
+      ],
+      "resource_counts_are_reasoned_defaults_not_learned": true,
+      "generated_at": "2026-06-21T14:32:56.347264+00:00"
+    }
+  },
+  {
+    "event": {
+      "latitude": 12.935,
+      "longitude": 77.735,
+      "event_cause": "water_logging",
+      "event_type": "unplanned",
+      "priority": "HIGH",
+      "timestamp": "2026-06-20T22:15:00"
+    },
+    "prediction": {
+      "input": {
+        "latitude": 12.935,
+        "longitude": 77.735,
+        "event_cause": "water_logging",
+        "event_type": "unplanned",
+        "priority": "HIGH",
+        "timestamp": "2026-06-20T22:15:00+00:00",
+        "was_escalated": false,
+        "description": "",
+        "address": ""
+      },
+      "resolved_location": {
+        "corridor_final": "Non-corridor",
+        "corridor_confidence": 0.7866666666666666,
+        "corridor_agreement": 0,
+        "corridor_source": "unresolved",
+        "rf_corridor_prediction": "ORR East 1",
+        "rf_corridor_confidence": 0.5733,
+        "knn_corridor_prediction": "Varthur Road",
+        "knn_corridor_confidence": 1.0,
+        "police_station": "Whitefield",
+        "police_station_nn_distance_km": 1.2191069652254483
+      },
+      "baseline_lookup": {
+        "baseline_corridor": "Varthur Road",
+        "baseline_source": "nearest_neighbor_fallback",
+        "nn_distance_km": 2.375853133290008
+      },
+      "closure_prediction": {
+        "requires_road_closure_predicted": false,
+        "closure_probability": 0.1785,
+        "decision_threshold": 0.23,
+        "model": "blend(ExtraTrees_w6 x0.5 + RandomForest_w4 x0.5)",
+        "model_roc_auc": 0.8188,
+        "text_available": false,
+        "model_a_probability": 0.205,
+        "model_b_structured_probability": 0.1521
+      },
+      "congestion_impact_score": {
+        "cis_formula_based": 1.73,
+        "cis_ml_based": 1.405,
+        "cis_ml_model_class": "XGBRegressor",
+        "baseline_delay_min": 3.07,
+        "signal_score": 0.0768,
+        "snapped_hour_used_for_baseline": 22
+      },
+      "corridor_forecast_context": {
+        "available": true,
+        "confidence": "OK",
+        "avg_weekly_incidents_historical": 80.1304347826087,
+        "next_week_forecast": {
+          "week_start": "2024-04-15",
+          "predicted_incidents": 92.6,
+          "yhat_lower": 46.6,
+          "yhat_upper": 138.3
+        }
+      }
+    },
+    "resource_plan": {
+      "cis_used": 1.405,
+      "cis_used_source": "cis_ml_based",
+      "cis_based_tier": "LOW",
+      "closure_predicted": false,
+      "closure_probability": 0.1785,
+      "closure_override_applied": false,
+      "final_tier": "LOW",
+      "officer_count": 1,
+      "barricade_count": 0,
+      "diversion_priority": "NONE",
+      "rationale": "Minor incident, bottom quartile of the ML-predicted CIS distribution, historical closure rate in this band is ~5.3%. Single officer for traffic guidance/logging; no physical barricading by default.",
+      "cis_disagreement_check": {
+        "checked": true,
+        "cis_formula_based": 1.73,
+        "cis_ml_based": 1.405,
+        "absolute_gap": 0.325,
+        "flagged_as_high_disagreement": false
+      },
+      "tier_thresholds_used": [
+        {
+          "name": "LOW",
+          "min_cis": 0.0,
+          "max_cis": 3.4
+        },
+        {
+          "name": "MODERATE",
+          "min_cis": 3.4,
+          "max_cis": 4.7
+        },
+        {
+          "name": "ELEVATED",
+          "min_cis": 4.7,
+          "max_cis": 7.3
+        },
+        {
+          "name": "HIGH",
+          "min_cis": 7.3,
+          "max_cis": 10.001
+        }
+      ],
+      "resource_counts_are_reasoned_defaults_not_learned": true,
+      "generated_at": "2026-06-21T14:32:56.757691+00:00"
+    }
+  }
+]
